@@ -382,7 +382,7 @@ svg {
 }
 .footer-subtext {
   display: block;
-  margin-bottom: 16px;
+  margin: 0 0 16px 0;
   color: var(--white-color);
   font-weight: 500;
   line-height: 1.5;
