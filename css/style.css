@@ -347,6 +347,9 @@ svg {
   fill: var(--pressed-hover-color);
 }
 /* !FOOTTER */
+.footer .logo {
+  margin: 0;
+}
 .footer-block {
   display: flex;
 }
@@ -364,9 +367,7 @@ svg {
   padding-bottom: 100px;
   background-color: var(--dark-text-color);
 }
-.footer .logo {
-  margin: 0;
-}
+
 .footer-span {
   color: var(--background-color);
 }
